@@ -1,0 +1,12 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.svn
+.svn?
+._*
+.idea
+.vscode
+node_modules/
+*.log
+package-lock.json
